@@ -1,0 +1,1 @@
+* * * * * root /osmosis/bin/osmosis --replicate-apidb authFile=/auth.conf validateSchemaVersion=false --write-replication workingDirectory=/rep_data/minutely-export
